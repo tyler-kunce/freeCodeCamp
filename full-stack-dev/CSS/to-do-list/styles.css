@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+a:focus {
+    outline: 2px solid chartreuse;
+}
+
+a:active {
+    color: aqua;
+}
+
+a:visited {
+    color: chocolate;
+}
