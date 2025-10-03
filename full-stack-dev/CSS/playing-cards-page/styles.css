@@ -39,7 +39,7 @@ div {
 .middle {
     align-self: center;
     display: flex;
-    font-size: 80px;
+    font-size: 55px;
     flex-direction: column;
 }
 
@@ -50,6 +50,8 @@ div {
 .middle-section {
     display: flex;
     justify-content: center;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 
 .flipped {
